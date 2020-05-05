@@ -10,7 +10,7 @@ Our game is a series of online one minute long mini-games playable on any mobile
 To join, simply go to the link above on your phone and wait for the game to start!    
 There is a brief waiting period to allow for multiple players to join. This period may be longer when first playing. (Up to 2 minutes of waiting! Just refresh if you have waited longer than 2 minutes)
 **Be sure your phone is not on silent mode**
-
+**Current bug: On certain iPhone iOS versions (the latest), the voice-to-speech may not function correctly. We are aware and currently working on a solution admist a busy exam season, but stay tuned!**
 
 There are **three** games that are randomly selected to play every 30 seconds!
 
